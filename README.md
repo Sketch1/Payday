@@ -2,7 +2,9 @@
 Project Copyright Galen Hite 2015
 Version 1.0.0
 
-This project simulates the classic Parker Brothers game Payday. It is a basic engine for completeing the game
+This project simulates the classic Parker Brothers game Payday. You can find the rules for the game here: http://www.boardgamecapital.com/payday-rules.htm
+
+It is a basic engine for completeing the game
 in little or no time, as opposed to trying to play through it, which takes a very long time, requires no stratagy
 on the part of the player.
 
